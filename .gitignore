@@ -1,2 +1,5 @@
 # PyCharm / JetBrains
 .idea/
+
+# Python virtual environments
+.venv/
