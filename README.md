@@ -1,9 +1,14 @@
 # FPLTool
 
 ## Notebooks
+
 **FPLAPI.ipynb** - A notebook where I learn how to scrape data from the FPL API and explore the data available.
 
+**FPLAnalytics.ipynb** - A notebook where I perform analysis on the data obtained from the FPL API, and create
+visualisations of the data.
+
 ## Data files
+
 **teams.csv** - A csv file containing all 20 Premier League teams, alongside additional stats such as team strength.
 
 **elements.csv** - A csv file containing all players in the Premier League, alongside stats. Stats are accumulated,
