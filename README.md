@@ -4,7 +4,7 @@
 
 **FPLAPI.ipynb** - A notebook where I learn how to scrape data from the FPL API and explore the data available.
 
-**DataCleaning.ipynb** - A notebook where i look a dtypes and amend values.
+**DataCleaning.ipynb** - A notebook where I look a dtypes and amend values.
 
 ## Data files
 
