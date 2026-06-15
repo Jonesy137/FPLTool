@@ -6,6 +6,8 @@
 
 **DataCleaning.ipynb** - A notebook where I look a dtypes and amend values.
 
+**Optimiser.ipynb** - 
+
 ## Data files
 
 **teams.csv** - A csv file containing all 20 Premier League teams, alongside additional stats such as team strength.
