@@ -6,7 +6,7 @@
 
 **DataCleaning.ipynb** - A notebook where I look a dtypes and amend values.
 
-**Optimiser.ipynb** - 
+**Optimiser.ipynb** - In progress
 
 ## Data files
 
